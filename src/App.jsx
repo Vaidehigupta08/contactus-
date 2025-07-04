@@ -1,9 +1,9 @@
 
 import React from 'react'
 import './App.css'
-import Header from './components/header'
-import Contact from './components/contact'
-import Form from './components/form'
+import Header from './components/Header'
+import Contact from './components/Contact'
+import Form from './components/Form'
 
 function App() {
   

@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import Button from "./button";
+import Button from "./Button";
 import Input from "./Input";
 import { ToastContainer, toast, Bounce } from 'react-toastify'; // ✅ Bounce added here
 import 'react-toastify/dist/ReactToastify.css';
